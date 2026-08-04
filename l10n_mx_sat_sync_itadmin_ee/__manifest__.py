@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': 'Administrador de documentos Digitales',
+    'name': 'Administrador de documentos Digitales ',
     'version': '19.1.3',
     'description': ''' 
                     Descarga los CFDI del portal del SAT a la base de datos de 
